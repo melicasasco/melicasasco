@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [www.melicasasco.netlify.app/](www.melicasasco.netlify.app/)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **web design - web development**
 
 - 📫 How to reach me **melaniecasasco@gmail.com**
 
